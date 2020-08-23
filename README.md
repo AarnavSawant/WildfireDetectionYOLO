@@ -1,5 +1,5 @@
 # WildfireDetectionYOLO
-This is the team submission for [Let's Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0). Hosted by AI For Mankind. All credit goes to [AI For Mankind](https://github.com/aiformankind/wildfire-smoke-detection-camera) for providing participants with the [annotated dataset and quickstart repo](https://github.com/aiformankind/wildfire-smoke-dataset). This model is a YOLOv5 Pytorch model, so we'd like to acknowledge Ultralytics for their [YOLOv5 Framework](https://github.com/ultralytics/yolov5).
+This is the team submission for [Let's Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0). Hosted by AI For Mankind. All credit goes to [AI For Mankind](https://github.com/aiformankind/wildfire-smoke-detection-camera) for providing participants with the [annotated dataset and quickstart repo](https://github.com/aiformankind/wildfire-smoke-dataset). This model is a YOLOv5 Pytorch model trained using Transfer Learning so we'd like to acknowledge Ultralytics for their [YOLOv5 Framework](https://github.com/ultralytics/yolov5).
 ### Our Team
 1. Santiago Perez Alvarado
 2. Surbhi Gupta
