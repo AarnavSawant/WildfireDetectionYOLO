@@ -10,5 +10,5 @@ This is the team submission for [Let's Stop Wildfires Hackathon 2.0](https://aif
 1. Clone this repository with ```git clone https://github.com/AarnavSawant/WildfireDetectionYOLO.git```
 2. Navigate to the directory with ```cd WildfireDetectionYOLO```
 3. Install all system requirements with ```pip install -r requirements.txt```
-4. Run detect.py with ```python3 detect.py --weights best.pt --source PATH/TO/IMAGES/OR/IMAGEDIRECTORY/OR/VIDEO --output OUTPUT_DIRECTORY --save-txt```
+4. Run detect.py with ```python3 detect.py --weights best.pt --source PATH/TO/IMAGES/OR/IMAGEDIRECTORY/OR/VIDEO --output OUTPUT_DIRECTORY --save-txt --conf-thres 0.5```
 5. To see the images and annotations, go to the OUTPUT_DIRECTORY. The coordinates for the bounding boxes are in the format [Class, y_min, y_max, x_min, x_max]
